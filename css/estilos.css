@@ -48,10 +48,10 @@ body
 }
 #pie
 {
-    background: #33a;
+    background: rgb(116, 173, 150);
     color: white;
     font-weight: bold;
-    padding: 0.5em;
+    padding: 0;
     margin: 0;
     box-shadow: 0px -2px 20px 0px rgba(0, 0, 0, 0.5);
 }
